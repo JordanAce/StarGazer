@@ -30,7 +30,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/JordanAce/StarGazer">
-    <img src="logo.png" alt="Logo" width="350" height="100">
+    <img src="logo.png" alt="Logo" width="450" height="200">
   </a>
 
   <h3 align="center">Star Gazer</h3>
